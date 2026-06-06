@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow the genre classifier python script
+!genre-classifier.py
+
+# Allow the Genre Classification Dataset directory and all its contents
+!Genre Classification Dataset/
+!Genre Classification Dataset/**
