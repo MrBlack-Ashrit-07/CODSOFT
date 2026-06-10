@@ -1,0 +1,40 @@
+TEST PERFORMANCE REPORT (Linear SVC)
+============================================================
+Test Accuracy : 0.5381
+Test Macro F1 : 0.3600
+Inference Time: 0.04s
+============================================================
+
+              precision    recall  f1-score   support
+
+      action       0.32      0.44      0.37      1314
+       adult       0.40      0.57      0.47       590
+   adventure       0.23      0.29      0.25       775
+   animation       0.19      0.25      0.22       498
+   biography       0.05      0.05      0.05       264
+      comedy       0.59      0.52      0.55      7446
+       crime       0.15      0.22      0.18       505
+ documentary       0.77      0.74      0.75     13096
+       drama       0.67      0.52      0.58     13612
+      family       0.18      0.25      0.20       783
+     fantasy       0.12      0.15      0.13       322
+   game-show       0.67      0.69      0.68       193
+     history       0.06      0.05      0.06       243
+      horror       0.53      0.68      0.60      2204
+       music       0.45      0.65      0.54       731
+     musical       0.14      0.18      0.16       276
+     mystery       0.12      0.13      0.12       318
+        news       0.25      0.25      0.25       181
+  reality-tv       0.32      0.43      0.36       883
+     romance       0.17      0.29      0.21       672
+      sci-fi       0.32      0.45      0.37       646
+       short       0.43      0.39      0.41      5072
+       sport       0.40      0.57      0.47       431
+   talk-show       0.34      0.43      0.38       391
+    thriller       0.23      0.29      0.25      1590
+         war       0.25      0.39      0.31       132
+     western       0.72      0.89      0.80      1032
+
+    accuracy                           0.54     54200
+   macro avg       0.34      0.40      0.36     54200
+weighted avg       0.57      0.54      0.55     54200
