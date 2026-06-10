@@ -10,11 +10,3 @@
 # Allow the Genre Classification Dataset directory and all its contents
 !Genre Classification Dataset/
 !Genre Classification Dataset/**
-
-# Allow the Document Classifier directory and its contents
-!Document Classifier/
-!Document Classifier/**
-
-# Ignore large model files and python caches inside Document Classifier
-Document Classifier/**/*.joblib
-Document Classifier/**/__pycache__/
