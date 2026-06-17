@@ -10,3 +10,11 @@
 # Allow the Genre Classification Dataset directory and all its contents
 !Genre Classification Dataset/
 !Genre Classification Dataset/**
+
+# Whitelist the script and datasets
+!fraud-detection.py
+!fraudTest.csv
+!fraudTrain.csv
+
+# Whitelist the Git LFS tracking configuration file (critical!)
+!.gitattributes
