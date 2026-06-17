@@ -1,4 +1,5 @@
 CODSOFT Machine Learning Internship
+
 This repository contains the machine learning projects I completed during my internship at CODSOFT. These tasks focus on applying various algorithms to solve real-world problems such as text classification and fraud detection.
 
 Tasks Completed
