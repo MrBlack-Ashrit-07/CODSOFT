@@ -16,6 +16,9 @@ Techniques: Employed TF-IDF with classifiers like Naive Bayes, Logistic Regressi
 
 About the Internship
 CODSOFT is a community focused on leadership development, learning, and student engagement. This internship requires the completion of at least three tasks to demonstrate technical proficiency in machine learning.
+
 Author: Mukund Ashrit
+
 Organization: CODSOFT
+
 Hashtags: #codsoft #machinelearning #internship
